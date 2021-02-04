@@ -2,6 +2,8 @@
 
 Яндекс.Практикум, Анализ Данных, Проект 7: визуализация данных, seaborn, Plotly; API Яндекс.Геокодер, парсинг HTML, Beautiful Soup.
 
+Иногда, GitHub капризничает и не показывает файлы .ipynb. Можно посмотреть код проекта в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Data_viz_seaborn-Moscow_restaurant_market_%28project_7%29/Project_7_Stories_Data_Final.ipynb 
+
 
 ## Данные
 
