@@ -2,6 +2,9 @@
 
 Яндекс.Практикум, Анализ Данных, Сборный проект 2: A/B-тесты, продуктовые воронки, визуализация данных.
 
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: 
+https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/cumulative_2-food_startup_app_script_test/Praktikum_Cumulative_2_AAB_test.ipynb
+
 
 ## Данные
 
