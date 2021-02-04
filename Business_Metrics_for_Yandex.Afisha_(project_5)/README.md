@@ -3,6 +3,9 @@
 Яндекс.Практикум, Анализ Данных, Проект 5: бизнес метрики (Retention, конверсия, средний чек, LTV, CAC, ROI, dau/wau/mau, sticky factors)
 
 
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке:
+https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Business_Metrics_for_Yandex.Afisha_%28project_5%29/Project_5_Business_Metrics_Final.ipynb
+
 ## Данные
 
 Таблица __visits__ (лог сервера с информацией о посещениях сайта):
