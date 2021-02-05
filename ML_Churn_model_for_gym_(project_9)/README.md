@@ -2,7 +2,7 @@
 
 Яндекс.Практикум, Анализ Данных, Проект 9: ML, sklearn, классификация: logistic regression, random forest classifier; кластеризация: distance matrix, dendrogram, K-Means.
 
-__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Data_viz_seaborn-Moscow_restaurant_market_%28project_7%29/Project_7_Stories_Data_Final.ipynb 
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github.com/curlylocks1987/yandex.praktikum-projects/blob/main/ML_Churn_model_for_gym_(project_9)/Project_9_ML.ipynb
 
 
 ## Данные
