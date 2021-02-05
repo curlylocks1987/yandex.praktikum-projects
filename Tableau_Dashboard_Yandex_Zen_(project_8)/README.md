@@ -2,7 +2,7 @@
 
 Яндекс.Практикум, Анализ Данных, Проект 8: дашборд Tableau Public, выгрузка с облачного сервера Yandex.Cloud, SQLAlchemy 
 
-__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Data_viz_seaborn-Moscow_restaurant_market_%28project_7%29/Project_7_Stories_Data_Final.ipynb 
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Tableau_Dashboard_Yandex_Zen_%28project_8%29/Project_8_Dashboard.ipynb
 
 
 ## Данные
