@@ -2,7 +2,7 @@
 
 Яндекс.Практикум, Анализ Данных, Сборный проект 1: Предобработка, EDA, тестирование гипотез, t-тест. 
 
-__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/ML_Churn_model_for_gym_%28project_9%29/Project_9_ML.ipynb
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Game_market_analysis_cumulative_1/Project_Cumulative_1_Game_Market.ipynb
 
 
 ## Данные
