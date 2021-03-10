@@ -2,7 +2,7 @@
 
 Яндекс.Практикум, Анализ Данных, Финальный проект, A/B-тест: конверсия пользователей в интернет магазине.
 
-__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Tableau_Dashboard_Yandex_Zen_%28project_8%29/Project_8_Dashboard.ipynb
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Project_Final_AB_test/Project_Final_AB_test.ipynb
 
 
 ## Данные
