@@ -2,7 +2,7 @@
 
 Яндекс.Практикум, Анализ Данных, Финальный проект: pandas, seaborn, matplotlib, Tableau Public, проверка статистических гипотез
 
-__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/ML_Churn_model_for_gym_%28project_9%29/Project_9_ML.ipynb
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Project_Final_Bank_Churn/Project_Final_Churn_Bank.ipynb
 
 
 ## Данные
