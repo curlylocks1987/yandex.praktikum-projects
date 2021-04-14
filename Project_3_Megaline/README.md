@@ -2,7 +2,7 @@
 
 Яндекс.Практикум, Анализ Данных, телеком, проверка гипотез.
 
-__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Project_Final_AB_test/Project_Final_AB_test.ipynb
+__Attention:__ Иногда GitHub капризничает и не открывает файлы .ipynb, но проект всегда можно посмотреть в Jupyter NBViewer по ссылке: https://nbviewer.jupyter.org/github/curlylocks1987/yandex.praktikum-projects/blob/main/Project_3_Megaline/Project_3_Megaline.ipynb
 
 
 ## Данные
